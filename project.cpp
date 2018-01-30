@@ -708,8 +708,7 @@ int main () {
  
   //---------------------------------------------------
   //LEARNING PROCESS
-  
-  
+ /*
   double a_= .1;
   double b_= 1;
   a= &a_;
@@ -718,7 +717,7 @@ int main () {
   // Matrix rand_matrix= random_matrix(C, .3);
   MC(C);
   
-  
+ */ 
   
 }
 
